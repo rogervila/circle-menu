@@ -7,6 +7,20 @@
         "email": "zikes@zikes.me",
         "url": "http://jasonwhutchinson.com"
     },
+    "contributors": [
+        {
+            "name": "Roger Vilà",
+            "email": "rogervila@me.com"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rogervila/circle-menu.git"
+    },
+    "bugs": {
+        "url": "https://github.com/rogervila/circle-menu/issues"
+    },
+    "main": "jQuery.circleMenu.js",
     "licenses": [
         {
             "type": "WTFPL",
@@ -18,6 +32,5 @@
     },
     "description": "A circular menu (often called a radial or pie menu) jQuery plugin.",
     "keywords": ["menu","radial menu","pie menu","circle menu","radial","circle"],
-    "homepage": "http://zikes.github.com/circle-menu/",
-    "files": ["jQuery.circleMenu.js"]
+    "homepage": "http://zikes.github.com/circle-menu/"
 }
